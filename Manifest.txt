@@ -9,3 +9,5 @@ lib/bookman/config.rb
 lib/bookman/football.rb
 lib/bookman/version.rb
 lib/bookman/world.rb
+test/helper.rb
+test/test_basics.rb

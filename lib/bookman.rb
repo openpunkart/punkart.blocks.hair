@@ -1,6 +1,12 @@
 # encoding: utf-8
 
 
+###
+# todo: add dependencies
+##  - hybook ??
+##  - datafile, bookfile ??
+
+
 ####################
 # our own code
 
