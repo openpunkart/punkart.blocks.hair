@@ -6,6 +6,12 @@
 
 require 'bookman/version'  # let it always go first
 
+require 'bookman/bookman'
+require 'bookman/config'
+require 'bookman/world'
+require 'bookman/football'
+require 'bookman/beer'
+
 
 
 # say hello
