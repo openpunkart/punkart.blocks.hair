@@ -1,4 +1,4 @@
-(Crypto) Collectibles Series -  [(Crypto) Punks's Not Dead](https://github.com/cryptopunksnotdead) · [(Crypto) Copycats](https://github.com/cryptocopycats) · [Pixel Art Exchange](https://github.com/pixelartexchange) · [Profile Pic(ture) As A Service](https://github.com/profilepic)
+(Crypto) Collectibles Series -  [(Crypto) Punk's Not Dead](https://github.com/cryptopunksnotdead) · [(Crypto) Copycats](https://github.com/cryptocopycats) · [Pixel Art Exchange](https://github.com/pixelartexchange) · [Profile Pic(ture) As A Service](https://github.com/profilepic)
 
 ### What's News?  
 
