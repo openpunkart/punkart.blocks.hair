@@ -1,3 +1,5 @@
+(Crypto) Collectibles Series -  [(Crypto) Punks's Not Dead](https://github.com/cryptopunksnotdead) · [(Crypto) Copycats](https://github.com/cryptocopycats) · [Pixel Art Exchange](https://github.com/pixelartexchange) · [Profile Pic(ture) As A Service](https://github.com/profilepic)
+
 ### What's News?  
 
 For artbase and pixel-art how-tos see [**r/DIYPunkArt Channel - All About Do-It-Yourself (D.I.Y.) Punk (Pixel) Art. Yes, You Can »**](https://old.reddit.com/r/DIYPunkArt/)
