@@ -11,7 +11,7 @@ Hightlights include:
 - [On Air Now! Live Art Base Coding Session - Let's Download the 10 000 Moonrunner Token Meta Data, Images, & More - Don't Get Left Out Of The Pack - Follow Along](https://old.reddit.com/r/DIYPunkArt/comments/vkz1fx/on_air_now_live_art_base_coding_session_lets/)
 - And Many More
 
-For pop art (andy warhol-style) how-tos see [**r/DIYPopArt Channel - About Do-It-Yourself (D.I.Y.) Pop Art (Pixel) Programming. Yes, You Can »**](https://old.reddit.com/r/DIYPopArt/)
+For pop art (andy warhol-style) how-tos see [**r/DIYPopArt Channel - All About Do-It-Yourself (D.I.Y.) Pop Art (Pixel) Programming. Yes, You Can »**](https://old.reddit.com/r/DIYPopArt/)
 
 Hightlights include:
 
