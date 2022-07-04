@@ -11,6 +11,15 @@ Hightlights include:
 - [On Air Now! Live Art Base Coding Session - Let's Download the 10 000 Moonrunner Token Meta Data, Images, & More - Don't Get Left Out Of The Pack - Follow Along](https://old.reddit.com/r/DIYPunkArt/comments/vkz1fx/on_air_now_live_art_base_coding_session_lets/)
 - And Many More
 
+For pop art (andy warhol-style) how-tos see [**r/DIYPopArt Channel - About Do-It-Yourself (D.I.Y.) Pop Art (Pixel) Programming. Yes, You Can »**](https://old.reddit.com/r/DIYPopArt/)
+
+Hightlights include:
+
+- [Free Polaroid Pixel Art (34x38px) - Yes, You Can - Turn Your Punks (24x24px) Into Polaroids - Use Any Background and More](https://old.reddit.com/r/DIYPopArt/comments/vrboat/free_polaroid_pixel_art_34x38px_yes_you_can_turn/)
+- [Pop Art Pixel Art How-To - Punks, The Dollar $$$ Bill Greenback Edition](https://old.reddit.com/r/DIYPopArt/comments/vrbvhw/pop_art_pixel_art_howto_punks_the_dollar_bill/)
+- [Pop Art Pixel Programming How-To: (Sweet & Sour) Candy (Pixel) Bears - The Pop Art Three Hundred Plus Rainbow Edition](https://old.reddit.com/r/DIYPopArt/comments/vrciit/pop_art_pixel_programming_howto_sweet_sour_candy/)
+- And Many More
+
 For collections see [**r/RightClickSaveThis Channel - Yes, You Can! - Collect 'Em All - Free All-In-One Image (Pixel) Art Collection Downloads »**](https://old.reddit.com/r/RightClickSaveThis/)
 
 Highlights include:
