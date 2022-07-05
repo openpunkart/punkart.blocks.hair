@@ -15,18 +15,18 @@ For pop art (andy warhol-style) how-tos see [**r/DIYPopArt Channel - All About D
 
 Hightlights include:
 
-- [Free Polaroid Pixel Art (34x38px) - Yes, You Can - Turn Your Punks (24x24px) Into Polaroids - Use Any Background and More](https://old.reddit.com/r/DIYPopArt/comments/vrboat/free_polaroid_pixel_art_34x38px_yes_you_can_turn/)
-- [Pop Art Pixel Art How-To - Punks, The Dollar $$$ Bill Greenback Edition](https://old.reddit.com/r/DIYPopArt/comments/vrbvhw/pop_art_pixel_art_howto_punks_the_dollar_bill/)
-- [Pop Art Pixel Programming How-To: (Sweet & Sour) Candy (Pixel) Bears - The Pop Art Three Hundred Plus Rainbow Edition](https://old.reddit.com/r/DIYPopArt/comments/vrciit/pop_art_pixel_programming_howto_sweet_sour_candy/)
+- [Free Polaroid Pixel Art (34x38px) - Yes, You Can - Turn Your Punks (24x24px) Into Polaroids - Use Any Background and More](https://old.reddit.com/r/DIYPopArt/comments/vrst1q/free_polaroid_pixel_art_34x38px_yes_you_can_turn/)
+- [Pop Art Pixel Art How-To - Punks, The Dollar $$$ Bill Greenback Edition](https://old.reddit.com/r/DIYPopArt/comments/vrsvh6/pop_art_pixel_art_howto_punks_the_dollar_bill/)
+- [Pop Art Pixel Programming How-To: (Sweet & Sour) Candy (Pixel) Bears - The Pop Art Three Hundred Plus Rainbow Edition](https://old.reddit.com/r/DIYPopArt/comments/vrtcma/pop_art_pixel_programming_howto_sweet_sour_candy/)
 - And Many More
 
 For collections see [**r/RightClickSaveThis Channel - Yes, You Can! - Collect 'Em All - Free All-In-One Image (Pixel) Art Collection Downloads »**](https://old.reddit.com/r/RightClickSaveThis/)
 
 Highlights include:
 
-- [Hoot! Hoot! Hoot! Collect 'Em All! 10000 Moonbirds (42x42px) In All-In-One Image Composite (4200x4200px) - Free moonbirds.png Right Click & Save Download (~4.5MB)](https://old.reddit.com/r/RightClickSaveThis/comments/vqbixo/hoot_hoot_hoot_collect_em_all_10000_moonbirds/)
-- [Alpha, Alpha, Alpha Alert - 10 000 Dooggies, The World's First 10 000 Doge Edition (Anno 2021) - Free All-In-One Image Composite Download (3200x3200px) - dooggies.png (~1.7MB)](https://old.reddit.com/r/RightClickSaveThis/comments/vqb1r0/alpha_alpha_alpha_alert_10_000_dooggies_the/)
-- [Is Ugly The New Punk? 48px Originals Presents: Collect'Em All! 4444 (Ugly) Goblin Townies (48x48px) In All-In-One Image Composite - Free goblintown.png (4800x2160px) Right-Click & Save Download (~1.24MB)](https://old.reddit.com/r/RightClickSaveThis/comments/vpxw71/is_ugly_the_new_punk_48px_originals_presents/)
+- [Hoot! Hoot! Hoot! Collect 'Em All! 10000 Moonbirds (42x42px) In All-In-One Image Composite (4200x4200px) - Free moonbirds.png Right Click & Save Download (~4.5MB)](https://old.reddit.com/r/RightClickSaveThis/comments/vrsdch/hoot_hoot_hoot_collect_em_all_10000_moonbirds/)
+- [Alpha, Alpha, Alpha Alert - 10 000 Dooggies, The World's First 10 000 Doge Edition (Anno 2021) - Free All-In-One Image Composite Download (3200x3200px) - dooggies.png (~1.7MB)](https://old.reddit.com/r/RightClickSaveThis/comments/vrsacq/alpha_alpha_alpha_alert_10_000_dooggies_the/)
+- [Is Ugly The New Punk? 48px Originals Presents: Collect'Em All! 4444 (Ugly) Goblin Townies (48x48px) In All-In-One Image Composite - Free goblintown.png (4800x2160px) Right-Click & Save Download (~1.24MB)](https://old.reddit.com/r/RightClickSaveThis/comments/vrfs9f/is_ugly_the_new_punk_48px_originals_presents/)
 -  And Many More
 
 
