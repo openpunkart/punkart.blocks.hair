@@ -6,20 +6,30 @@
 
 Base (Colors)
 
+  Big Mohawk (m)
+  ![](hair/m/big_mohawk.png),
   Bob (m/f)
   ![](hair/m/bob.png) ![](hair/m/bob2.png) 
   ![](hair/f/bob.png) ![](hair/f/bob2.png),
   Clown (m/f)
   ![](hair/m/clown.png) 
   ![](hair/f/clown.png) ![](hair/f/clown2.png),
+  Comma (m)
+  ![](hair/m/commma.png), 
   Crazy (m/f)
   ![](hair/m/crazy.png) ![](hair/m/crazy2.png)
   ![](hair/f/crazy.png) ![](hair/f/crazy2.png) ![](hair/f/crazy3.png),
+  Fringe Up (m)
+  ![](hair/m/fringe_up.png), 
   Frumpy (m/f)
   ![](hair/m/frumpy.png) ![](hair/f/frumpy.png),
   Half Shaved (m/f)
   ![](hair/m/halfshaved.png) ![](hair/m/halfshaved2.png) 
   ![](hair/f/halfshaved.png) ![](hair/f/halfshaved2.png),
+  Long Front Curly (m)
+  ![](hair/m/long_front_curly), 
+  Messier (m)
+  ![](hair/m/messier.png),
   Messy (m/f)
   ![](hair/m/messy.png) ![](hair/f/messy.png),
   Mohawk (m/f)
@@ -27,15 +37,23 @@ Base (Colors)
   ![](hair/f/mohawk.png) ![](hair/f/mohawk2.png),
   Mohawk Thin (m/f)
   ![](hair/m/mohawkthin.png) ![](hair/f/mohawkthin.png),
+  Old Man (m)
+  ![](hair/m/oldman.png),
   Peak Spike (m/f)
   ![](hair/m/peakspike.png) 
   ![](hair/f/peakspike.png) ![](hair/f/peakspike2.png),
   Pigtails (m/f)
   ![](hair/m/pigtails.png) 
   ![](hair/f/pigtails.png) ![](hair/f/pigtails2.png) ![](hair/f/pigtails3.png),
+  Pompadour (m)
+  ![](hair/m/pompadour.png),
   Short (m/f)
   ![](hair/m/short.png) ![](hair/m/short2.png) 
   ![](hair/f/short.png) ![](hair/f/short2.png),
+  Short Messy (m)
+  ![](hair/m/short_messy.png),
+  Short Mohawk (m)
+  ![](hair/m/short_mohawk.png),
   Side (m/f)
   ![](hair/m/side.png) ![](hair/m/side2.png) 
   ![](hair/f/side.png) ![](hair/f/side2.png),
