@@ -96,6 +96,20 @@ Shaved Head (m/f)
   
   
 
+in action samples in 4x
+
+![](i/hair_m@4x.png)
+
+and 
+
+![](i/hair_f@4x.png)
+
+
+
+
+
+
+
 Basics
 
   Blonde Bob (m/f)
