@@ -164,6 +164,17 @@ Basics
   ![](basic/m/wildwhitehair.png) ![](basic/m/wildwhitehair2.png) ![](basic/f/wildwhitehair.png) ![](basic/f/wildwhitehair2.png)
 
 
+in action samples in 4x
+
+![](i/basic_m@4x.png)
+
+and 
+
+![](i/basic_f@4x.png)
+
+
+
+
 
 
 
