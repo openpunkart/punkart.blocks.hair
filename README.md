@@ -4,20 +4,65 @@
 ##  Hair (24×24)
 
 
-Base
+Base (Colors)
 
   Bob (m/f)
-  ![](hair/m/bob.png) ![](hair/f/bob.png),
-  Short (m/f)
-  ![](hair/m/short.png) ![](hair/m/short2.png) ![](hair/f/short.png) ![](hair/f/short2.png),
+  ![](hair/m/bob.png) ![](hair/m/bob2.png) 
+  ![](hair/f/bob.png) ![](hair/f/bob2.png),
   Clown (m/f)
-  ![](hair/m/clown.png) ![](hair/f/clown.png) ![](hair/f/clown2.png),
+  ![](hair/m/clown.png) 
+  ![](hair/f/clown.png) ![](hair/f/clown2.png),
   Crazy (m/f)
-  ![](hair/m/crazy.png) ![](hair/f/crazy.png),
+  ![](hair/m/crazy.png) ![](hair/m/crazy2.png)
+  ![](hair/f/crazy.png) ![](hair/f/crazy2.png) ![](hair/f/crazy3.png),
+  Frumpy (m/f)
+  ![](hair/m/frumpy.png) ![](hair/f/frumpy.png),
+  Half Shaved (m/f)
+  ![](hair/m/halfshaved.png) ![](hair/m/halfshaved2.png) 
+  ![](hair/f/halfshaved.png) ![](hair/f/halfshaved2.png),
+  Messy (m/f)
+  ![](hair/m/messyhair.png) ![](hair/f/messyhair.png),
+  Mohawk (m/f)
+  ![](hair/m/mohawk.png) ![](hair/m/mohawk2.png)
+  ![](hair/f/mohawk.png) ![](hair/f/mohawk2.png),
+  Mohawk Thin (m/f)
+  ![](hair/m/mohawkthin.png) ![](hair/f/mohawkthin.png),
+  Peak Spike (m/f)
+  ![](hair/m/peakspike.png) 
+  ![](hair/f/peakspike.png) ![](hair/f/peakspike2.png),
+  Pigtails (m/f)
+  ![](hair/m/pigtails.png) 
+  ![](hair/f/pigtails.png) ![](hair/f/pigtails2.png) ![](hair/f/pigtails3.png),
+  Shaved Head (m/f)
+  ![](hair/m/shavedhead.png) ![](hair/f/shavedhead.png),
+  Short (m/f)
+  ![](hair/m/short.png) ![](hair/m/short2.png) 
+  ![](hair/f/short.png) ![](hair/f/short2.png),
+  Side (m/f)
+  ![](hair/m/side.png) ![](hair/m/side2.png) 
+  ![](hair/f/side.png) ![](hair/f/side2.png),
+  Spiky (f)
+  ![](hair/f/spiky.png),
+  Straight(m/f)
+  ![](hair/m/straight.png) 
+  ![](hair/f/straight.png) ![](hair/f/straight2.png),
+  Stringy (m/f)
+  ![](hair/m/stringy.png) ![](hair/f/stringy.png),
+  Vampire (m/f)
+  ![](hair/m/vampire.png) 
+  ![](hair/f/vampire.png) ![](hair/f/vampire2.png),
+  Wild (m/f)
+  ![](hair/m/wild.png) ![](hair/m/wild2.png) ![](hair/m/wild3.png)
+  ![](hair/m/wild4.png) ![](hair/m/wild5.png)
+  ![](hair/f/wild.png) ![](hair/f/wild2.png) ![](hair/f/wild3.png) ![](hair/f/wild4.png) ![](hair/f/wild5.png),
+ 
 
 
+Alpha Only (No Colors)
 
-
+Shaved Head (m/f)
+  ![](hair/m/shavedhead.png) ![](hair/f/shavedhead.png),
+  
 
 
 
