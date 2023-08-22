@@ -113,55 +113,65 @@ and
 Basics
 
   Blonde Bob (m/f)
-  ![](basic/m/blondebob.png) ![](basic/f/blondebob.png),
+  ![](basic/m/blondebob.png) / ![](basic/f/blondebob.png),
   Blonde Short (m/f)
-  ![](basic/m/blondeshort.png) ![](basic/m/blondeshort2.png) ![](basic/f/blondeshort.png) ![](basic/f/blondeshort2.png),
+  ![](basic/m/blondeshort.png) ![](basic/m/blondeshort2.png) /
+  ![](basic/f/blondeshort.png) ![](basic/f/blondeshort2.png),
   Clown Hair Green (m/f)
-  ![](basic/m/clownhairgreen.png) ![](basic/f/clownhairgreen.png) ![](basic/f/clownhairgreen2.png),
+  ![](basic/m/clownhairgreen.png) /
+  ![](basic/f/clownhairgreen.png) ![](basic/f/clownhairgreen2.png),
   Crazy Hair (m/f)
-  ![](basic/m/crazyhair.png) ![](basic/f/crazyhair.png),
+  ![](basic/m/crazyhair.png) / ![](basic/f/crazyhair.png),
   Dark Hair (m/f)
-  ![](basic/m/darkhair.png) ![](basic/f/darkhair.png) ![](basic/f/darkhair2.png),
+  ![](basic/m/darkhair.png) / ![](basic/f/darkhair.png) ![](basic/f/darkhair2.png),
   Frumpy Hair (m/f)
-  ![](basic/m/frumpyhair.png) ![](basic/f/frumpyhair.png),
+  ![](basic/m/frumpyhair.png) / ![](basic/f/frumpyhair.png),
   Half Shaved (m/f)
-  ![](basic/m/halfshaved.png) ![](basic/m/halfshaved2.png) ![](basic/f/halfshaved.png) ![](basic/f/halfshaved2.png),
+  ![](basic/m/halfshaved.png) ![](basic/m/halfshaved2.png) /
+  ![](basic/f/halfshaved.png) ![](basic/f/halfshaved2.png),
   Messy Hair (m/f)
-  ![](basic/m/messyhair.png) ![](basic/f/messyhair.png),
+  ![](basic/m/messyhair.png) / ![](basic/f/messyhair.png),
   Mohawk (m/f)
-  ![](basic/m/mohawk.png) ![](basic/f/mohawk.png),
+  ![](basic/m/mohawk.png) / ![](basic/f/mohawk.png),
   Mohawk Dark (m/f)
-  ![](basic/m/mohawkdark.png) ![](basic/f/mohawkdark.png),
+  ![](basic/m/mohawkdark.png) / ![](basic/f/mohawkdark.png),
   Mohawk Thin (m/f)
-  ![](basic/m/mohawkthin.png) ![](basic/f/mohawkthin.png),
+  ![](basic/m/mohawkthin.png) / ![](basic/f/mohawkthin.png),
   Orange Side (m/f)
-  ![](basic/m/orangeside.png) ![](basic/m/orangeside2.png) ![](basic/f/orangeside.png) ![](basic/f/orangeside2.png),
+  ![](basic/m/orangeside.png) ![](basic/m/orangeside2.png) /
+  ![](basic/f/orangeside.png) ![](basic/f/orangeside2.png),
   Peak Spike (m/f)
-  ![](basic/m/peakspike.png) ![](basic/f/peakspike.png) ![](basic/f/peakspike2.png),
+  ![](basic/m/peakspike.png) /
+  ![](basic/f/peakspike.png) ![](basic/f/peakspike2.png),
   Pigtails (m/f)
-  ![](basic/m/pigtails.png) ![](basic/f/pigtails.png),
+  ![](basic/m/pigtails.png) / ![](basic/f/pigtails.png),
   Purple Hair (m/f)
-  ![](basic/m/purplehair.png) ![](basic/f/purplehair.png) ![](basic/f/purplehair2.png),
+  ![](basic/m/purplehair.png) /
+  ![](basic/f/purplehair.png) ![](basic/f/purplehair2.png),
   Red Mohawk (m/f)
-  ![](basic/m/redmohawk.png) ![](basic/f/redmohawk.png),
+  ![](basic/m/redmohawk.png) / ![](basic/f/redmohawk.png),
   Shaved Head (m/f)
-  ![](basic/m/shavedhead.png) ![](basic/f/shavedhead.png),
+  ![](basic/m/shavedhead.png) / ![](basic/f/shavedhead.png),
   Straight Hair (m/f)
-  ![](basic/m/straighthair.png) ![](basic/f/straighthair.png),
+  ![](basic/m/straighthair.png) / ![](basic/f/straighthair.png),
   Straight Hair Blonde (m/f)
-  ![](basic/m/straighthairblonde.png) ![](basic/f/straighthairblonde.png) ![](basic/f/straighthairblonde2.png),
+  ![](basic/m/straighthairblonde.png) /
+  ![](basic/f/straighthairblonde.png) ![](basic/f/straighthairblonde2.png),
   Straight Hair Dark (m/f)
-  ![](basic/m/straighthairdark.png) ![](basic/f/straighthairdark.png),
+  ![](basic/m/straighthairdark.png) / ![](basic/f/straighthairdark.png),
   Stringy Hair (m/f)
-  ![](basic/m/stringyhair.png) ![](basic/f/stringyhair.png),
+  ![](basic/m/stringyhair.png) / ![](basic/f/stringyhair.png),
   Vampire Hair (m/f)
-  ![](basic/m/vampirehair.png) ![](basic/f/vampirehair.png) ![](basic/f/vampirehair2.png),
+  ![](basic/m/vampirehair.png) / 
+  ![](basic/f/vampirehair.png) ![](basic/f/vampirehair2.png),
   Wild Blonde (m/f)
-  ![](basic/m/wildblonde.png) ![](basic/m/wildblonde2.png) ![](basic/f/wildblonde.png) ![](basic/f/wildblonde2.png),
+  ![](basic/m/wildblonde.png) ![](basic/m/wildblonde2.png) /
+  ![](basic/f/wildblonde.png) ![](basic/f/wildblonde2.png),
   Wild Hair (m/f)
-  ![](basic/m/wildhair.png) ![](basic/f/wildhair.png),
+  ![](basic/m/wildhair.png) / ![](basic/f/wildhair.png),
   Wild White Hair (m/f)
-  ![](basic/m/wildwhitehair.png) ![](basic/m/wildwhitehair2.png) ![](basic/f/wildwhitehair.png) ![](basic/f/wildwhitehair2.png)
+  ![](basic/m/wildwhitehair.png) ![](basic/m/wildwhitehair2.png) /
+  ![](basic/f/wildwhitehair.png) ![](basic/f/wildwhitehair2.png)
 
 
 in action samples in 4x
