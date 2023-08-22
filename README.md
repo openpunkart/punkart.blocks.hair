@@ -21,7 +21,7 @@ Base (Colors)
   ![](hair/m/halfshaved.png) ![](hair/m/halfshaved2.png) 
   ![](hair/f/halfshaved.png) ![](hair/f/halfshaved2.png),
   Messy (m/f)
-  ![](hair/m/messyhair.png) ![](hair/f/messyhair.png),
+  ![](hair/m/messy.png) ![](hair/f/messy.png),
   Mohawk (m/f)
   ![](hair/m/mohawk.png) ![](hair/m/mohawk2.png)
   ![](hair/f/mohawk.png) ![](hair/f/mohawk2.png),
@@ -33,8 +33,6 @@ Base (Colors)
   Pigtails (m/f)
   ![](hair/m/pigtails.png) 
   ![](hair/f/pigtails.png) ![](hair/f/pigtails2.png) ![](hair/f/pigtails3.png),
-  Shaved Head (m/f)
-  ![](hair/m/shavedhead.png) ![](hair/f/shavedhead.png),
   Short (m/f)
   ![](hair/m/short.png) ![](hair/m/short2.png) 
   ![](hair/f/short.png) ![](hair/f/short2.png),
@@ -54,17 +52,16 @@ Base (Colors)
   Wild (m/f)
   ![](hair/m/wild.png) ![](hair/m/wild2.png) ![](hair/m/wild3.png)
   ![](hair/m/wild4.png) ![](hair/m/wild5.png)
-  ![](hair/f/wild.png) ![](hair/f/wild2.png) ![](hair/f/wild3.png) ![](hair/f/wild4.png) ![](hair/f/wild5.png),
+  ![](hair/f/wild.png) ![](hair/f/wild2.png) ![](hair/f/wild3.png) ![](hair/f/wild4.png) ![](hair/f/wild5.png)
  
 
 
 Alpha Only (No Colors)
 
 Shaved Head (m/f)
-  ![](hair/m/shavedhead.png) ![](hair/f/shavedhead.png),
+  ![](hair/m/shavedhead.png) ![](hair/f/shavedhead.png)
   
-
-
+  
 
 Basics
 
