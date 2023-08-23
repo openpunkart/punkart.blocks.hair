@@ -965,6 +965,8 @@ Hair  ![](wallstreetbets/wallstreetbets-hair1.png)
 
 ## Beards (24×24)
 
+Basics
+
   Big Beard (m)
    ![](beard/bigbeard.png),
   Chinstrap (m)
@@ -994,6 +996,10 @@ Hair  ![](wallstreetbets/wallstreetbets-hair1.png)
   Short Beard (m)
    ![](beard/short_white_beard.png)
 
+
+in action samples in 4x
+
+![](i/basicbeard@4x.png)
 
 
 
