@@ -999,7 +999,7 @@ Basics
 
 in action samples in 4x
 
-![](i/basicbeard@4x.png)
+![](i/beardbasic@4x.png)
 
 
 
