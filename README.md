@@ -965,6 +965,39 @@ Hair  ![](wallstreetbets/wallstreetbets-hair1.png)
 
 ## Beards (24×24)
 
+Base (Colors)
+
+  Big Beard (m)
+   ![](beard/bigbeard.png),
+  Chinstrap (m)
+   ![](beard/chinstrap.png),
+  Front Beard (m)
+   ![](beard/frontbeard.png)
+  Goat (m)
+   ![](beard/goat.png),
+  Handlebars (m)
+   ![](beard/handlebars.png),
+  Luxurious Beard (m)
+   ![](beard/luxuriousbeard.png),
+  Messy Beard (m)
+   ![](beard/messybeard.png),
+  Muttonchops (m)
+   ![](beard/muttonchops.png),
+  Normal Beard (m)
+   ![](beard/normalbeard.png),
+  Short Beard (m)
+   ![](beard/shortbeard.png)
+
+
+Alpha Only (No Colors)
+  Mustache (m)
+   ![](beard/mustache.png),
+  Shadow Beard (m)
+   ![](beard/shadowbeard.png)
+
+
+
+
 Basics
 
   Big Beard (m)
